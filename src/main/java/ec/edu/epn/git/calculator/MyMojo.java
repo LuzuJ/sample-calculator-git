@@ -1,4 +1,4 @@
-package ec.edu.epn;
+package ec.edu.epn.git.calculator;
 
 /*
  * Copyright 2001-2005 The Apache Software Foundation.
