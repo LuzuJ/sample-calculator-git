@@ -1,0 +1,5 @@
+# Created at 2025-05-08T23:28:12.867
+Boot Manifest-JAR contains absolute paths in classpath 'D:\UNIVERSIDAD\6to Semestre\Metodologias Agiles\Practica JUnit\sample-calculator-git\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -16,7 +16,7 @@ public class CalculatorParametersTest {
     @Parameterized.Parameters
     public static Iterable<Object[]> parameters(){
         List<Object[]> objects = new ArrayList<Object[]>();
-        objects.add(new Object[]{2,14,6});
+        objects.add(new Object[]{2,4,6});
         objects.add(new Object[]{1,8,9});
         objects.add(new Object[]{2,5,7});
         objects.add(new Object[]{7,3,10});
